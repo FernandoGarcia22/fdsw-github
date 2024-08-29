@@ -12,6 +12,22 @@ header .container {
   margin-left: 100px;
 }
 
+header p {
+  width: 400px;
+}
+
+#text-section1 {
+  width: 370px;
+}
+
+svg {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 58px;
+  height: 58px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
